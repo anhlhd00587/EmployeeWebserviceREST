@@ -1,0 +1,1 @@
+C:\Users\Le Hoang Anh\source\repos\EmployeeWebserviceREST\UWPConsumer\UWPConsumer.csproj;x86
